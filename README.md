@@ -1,4 +1,4 @@
-# Fancy Wordle – Pygame Edition
+# Wordle – Pygame Edition
 
 A desktop recreation of **Wordle** written in pure Python with **pygame**.
 
@@ -50,7 +50,7 @@ A desktop recreation of **Wordle** written in pure Python with **pygame**.
 
 ```bash
 git clone https://github.com/your‑alias/fancy‑wordle.git
-cd fancy‑wordle
+cd wordle
 pip install pygame          # if you don’t already have it
 ```
 
