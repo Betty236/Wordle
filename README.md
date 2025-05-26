@@ -96,10 +96,3 @@ README.md         # this file
 * **Debug word** – comment out the `print("debug target …")` line if you don’t want answers revealed in the console.
 * **Word length / tries** – change `WORD_LEN` & `MAX_TRIES` (provide a matching word list!).
 
----
-
-## Licence
-
-MIT © 2025 Your Name — fork, hack, and share!
-
-Enjoy, and happy puzzling! 🎉
